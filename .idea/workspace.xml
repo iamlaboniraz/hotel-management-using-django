@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c00bb0bf-162b-4a90-bdaa-d7a39097485f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main_backend_page</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1YA93N7A9yuMgTN5YGLR1L9SEu1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django2 by example" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\hotel management\myproject\templates\Backend\room" />
+      <recent name="D:\Dropbox\hotel management\myproject\myapp\templates\myapp" />
+      <recent name="D:\Dropbox\hotel management\myproject\myapp\templates" />
+      <recent name="D:\Dropbox\hotel management\myproject\templates\Backend\myapp" />
+      <recent name="D:\Dropbox\hotel management\myproject\templates\Backend" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c00bb0bf-162b-4a90-bdaa-d7a39097485f" name="Default Changelist" comment="" />
+      <created>1581933619870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581933619870</updated>
+      <workItem from="1581933621041" duration="8379000" />
+      <workItem from="1581996076833" duration="28139000" />
+      <workItem from="1582082348428" duration="27420000" />
+      <workItem from="1582168822973" duration="22851000" />
+      <workItem from="1582428956017" duration="2383000" />
+      <workItem from="1582517737705" duration="24711000" />
+      <workItem from="1582600811126" duration="28217000" />
+      <workItem from="1582687736058" duration="26307000" />
+      <workItem from="1582774253560" duration="24497000" />
+      <workItem from="1582859905833" duration="808000" />
+      <workItem from="1582863477005" duration="652000" />
+      <workItem from="1582865510927" duration="638000" />
+      <workItem from="1582867544289" duration="97000" />
+      <workItem from="1582889716216" duration="3000" />
+      <workItem from="1583033939191" duration="1635000" />
+      <workItem from="1583035645237" duration="4000" />
+      <workItem from="1583035837207" duration="1264000" />
+      <workItem from="1583064746472" duration="6000" />
+      <workItem from="1583293158482" duration="10000" />
+      <workItem from="1583303004204" duration="58000" />
+      <workItem from="1583401863963" duration="6000" />
+      <workItem from="1583410735673" duration="3000" />
+      <workItem from="1584075834799" duration="783000" />
+      <workItem from="1584328799279" duration="10751000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="209622000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
